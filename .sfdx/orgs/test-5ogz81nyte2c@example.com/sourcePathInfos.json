@@ -32,27 +32,27 @@
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1537603351656,
             "changeTime": 1537603351656,
-            "contentHash": "06633a8d806631cb39db1b9be733f6aa69ea8bc9"
+            "contentHash": "06633a8d806631cb39db1b9be733f6aa69ea8bc9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1537603351592,
-            "changeTime": 1537603351592,
-            "contentHash": "f8061fedfacbc426120991153bd3bb2d79333977"
+            "modifiedTime": 1537625152221,
+            "changeTime": 1537625152221,
+            "contentHash": "322e6e2e9e1ee444c95a37e67c077467332b2790",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -216,14 +216,14 @@
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1537603351642,
-            "changeTime": 1537603351642,
-            "contentHash": "d6c8eee2018a36a3d49f13af94023103b3aebeef"
+            "modifiedTime": 1537625152243,
+            "changeTime": 1537625152243,
+            "contentHash": "f4c215c348b8a5564b734592c8015d59ae75914b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -268,40 +268,40 @@
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadges\\IndicatorBadges.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadges\\IndicatorBadges.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1537603351595,
             "changeTime": 1537603351595,
-            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadges\\IndicatorBadgesController.js",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadges\\IndicatorBadgesController.js",
             "isDirectory": false,
+            "size": 331,
+            "modifiedTime": 1537625152215,
+            "changeTime": 1537625152215,
+            "contentHash": "0d1def6e03f734098cc2e33c34f4472070d7778f",
             "isMetadataFile": false,
-            "size": 219,
-            "modifiedTime": 1537603351597,
-            "changeTime": 1537603351597,
-            "contentHash": "59a75678958c799dc737cd335e6cdea030cd26bb"
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadges\\IndicatorBadgesHelper.js",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadges\\IndicatorBadgesHelper.js",
             "isDirectory": false,
+            "size": 1657,
+            "modifiedTime": 1537625152218,
+            "changeTime": 1537625152218,
+            "contentHash": "6b5a642378f46d9c1464d36515b6d30fe4be2428",
             "isMetadataFile": false,
-            "size": 755,
-            "modifiedTime": 1537603351598,
-            "changeTime": 1537603351598,
-            "contentHash": "bfb0fc72cb43ffd7357c4c969a8f31ef51963f2d"
+            "state": "u"
         }
     ],
     [
@@ -311,153 +311,309 @@
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadges\\IndicatorBadges.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 992,
-            "modifiedTime": 1537603351598,
-            "changeTime": 1537603351598,
-            "contentHash": "10ab578d242fbd5dfcea58cfe67ac190a4bd3ba4"
+            "size": 1129,
+            "modifiedTime": 1537626396368,
+            "changeTime": 1537626396368,
+            "contentHash": "0c13fd95cd4e3d67b2f4e8115cc3405bb25d5550"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3921,
             "modifiedTime": 1537603351620,
             "changeTime": 1537603351620,
-            "contentHash": "f9283cea22e9fbcd8c7cc5a1c1173a6c2b7b3cc7"
+            "contentHash": "f9283cea22e9fbcd8c7cc5a1c1173a6c2b7b3cc7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5119,
             "modifiedTime": 1537603351643,
             "changeTime": 1537603351643,
-            "contentHash": "771b062e2a3f690dd566923eac8021d9d17da049"
+            "contentHash": "771b062e2a3f690dd566923eac8021d9d17da049",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6243,
             "modifiedTime": 1537603351650,
             "changeTime": 1537603351650,
-            "contentHash": "90ffd9c96200ca46ccccbbea265116f4294d4869"
+            "contentHash": "90ffd9c96200ca46ccccbbea265116f4294d4869",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6109,
             "modifiedTime": 1537603351655,
             "changeTime": 1537603351655,
-            "contentHash": "29fc6e4a0f1e7b7634fa454887474e8064ef7405"
+            "contentHash": "29fc6e4a0f1e7b7634fa454887474e8064ef7405",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\classes\\INDICATOR_Controller.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\classes\\INDICATOR_Controller.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1537603351657,
             "changeTime": 1537603351657,
-            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\classes\\INDICATOR_Controller.cls",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\classes\\INDICATOR_Controller.cls",
             "isDirectory": false,
+            "size": 1118,
+            "modifiedTime": 1537622545677,
+            "changeTime": 1537622545677,
+            "contentHash": "c6d805e7422f5286bf772b59f26dd006f30c01ae",
             "isMetadataFile": false,
-            "size": 231,
-            "modifiedTime": 1537603351659,
-            "changeTime": 1537603351659,
-            "contentHash": "5a578f7d885b1aa2a791c1e1b979f10d0c1f3085"
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadges",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadges",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1537603351598,
+            "modifiedTime": 1537625152219,
             "changeTime": 1537603351598,
-            "contentHash": "799714678c7aeac5abb5f144f0c55642593940fc"
+            "contentHash": "799714678c7aeac5abb5f144f0c55642593940fc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1537603351619,
             "changeTime": 1537603351619,
-            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6"
+            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Contact",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Contact",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1537603351643,
             "changeTime": 1537603351643,
-            "contentHash": "661e0d544b605f6d4bf16ac9782ecd625944d391"
+            "contentHash": "661e0d544b605f6d4bf16ac9782ecd625944d391",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1537603351654,
-            "changeTime": 1537603351654,
-            "contentHash": "32d341ff2036b42356aeaad81f9004b59abc21bf"
+            "modifiedTime": 1537625152252,
+            "changeTime": 1537625152252,
+            "contentHash": "8f6ed2db4636bf46bd554aa9ac922b765b3b5f56",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1537603351658,
-            "changeTime": 1537603351658,
-            "contentHash": "fca498c5b023d065c997aba99e82837cfc5f407e"
+            "modifiedTime": 1537622545677,
+            "changeTime": 1537622545677,
+            "contentHash": "c94cde66e9aacc58512798c0587baef6732550a9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\classes\\INDICATOR_Service.cls-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\classes\\INDICATOR_Service.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1537622545667,
+            "changeTime": 1537622545667,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\classes\\INDICATOR_Service.cls",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\classes\\INDICATOR_Service.cls",
+            "isDirectory": false,
+            "size": 2721,
+            "modifiedTime": 1537622545670,
+            "changeTime": 1537622545670,
+            "contentHash": "80008aaf8a86cfc263b2d463272390f67f4f4dcd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadge\\IndicatorBadge.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadge\\IndicatorBadge.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1537625152221,
+            "changeTime": 1537625152221,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadge\\IndicatorBadge.cmp",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadge\\IndicatorBadge.cmp",
+            "isDirectory": false,
+            "size": 270,
+            "modifiedTime": 1537625152222,
+            "changeTime": 1537625152222,
+            "contentHash": "f96229c59f06ccb53b46414cacf6ef2cec37ac44",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadge\\IndicatorBadge.css",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadge\\IndicatorBadge.css",
+            "isDirectory": false,
+            "size": 540,
+            "modifiedTime": 1537625152223,
+            "changeTime": 1537625152223,
+            "contentHash": "2c72af5ecaf342c7033429855e66eaaa38b6501d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Show__c\\Show__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Show__c\\Show__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2313,
+            "modifiedTime": 1537625152236,
+            "changeTime": 1537625152236,
+            "contentHash": "6346709ba9e944a7eacc6c1fa56ee1435a18ae8b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Syndication__c\\Syndication__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Syndication__c\\Syndication__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2394,
+            "modifiedTime": 1537625152245,
+            "changeTime": 1537625152245,
+            "contentHash": "e2e587170a5a0b9dba4018fc003fd17eef1bc1b2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\flexipages\\Show_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\flexipages\\Show_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3192,
+            "modifiedTime": 1537625152248,
+            "changeTime": 1537625152248,
+            "contentHash": "619314402f19066ab45a7593f0814ecb70a113a2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\flexipages\\Syndication_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\flexipages\\Syndication_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3206,
+            "modifiedTime": 1537625152252,
+            "changeTime": 1537625152252,
+            "contentHash": "07d76634f0c32177127e1bab7259fa428d5ee0b3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadge",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\aura\\IndicatorBadge",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537625152223,
+            "changeTime": 1537625152223,
+            "contentHash": "b5528456626016e0633e590ebe7f31cef1d9cc4d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Show__c",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Show__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537625152236,
+            "changeTime": 1537625152236,
+            "contentHash": "071267f796ebd109303d4ec8c25d9670ed7383d2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Syndication__c",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_reusablecomp\\force-app\\main\\default\\objects\\Syndication__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537625152244,
+            "changeTime": 1537625152244,
+            "contentHash": "33d18783722c3c58e874d9271f186d3149588675",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
